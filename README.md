@@ -1,11 +1,6 @@
 # puppeteerr
 
-api.js 
-.env
-package.json
-package-lock.json
 
-dosyalarını restapi içerisine atınız
 vs code terminalden restapi içerisine girip sırasıyla
 npm i puppeteer //(puppeteer için)
 npm install
