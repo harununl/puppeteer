@@ -17,9 +17,10 @@ komutlarını çalıştırınız gerekli dosyaların yükleme işlemi bittikten 
 
 api.js içerisinde verilen proxy .env dosyası üzerinden değiştirilebilir.
 
-package.json dosyası içerisinde
- "start": "node ./bin/www" kısmı  "node ./api.js" olarak düzeltilmeli.
- 
+
+
+
+
  test caselerin çalışması..
  
  https://forum.donanimhaber.com/
