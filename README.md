@@ -1,4 +1,4 @@
-# puppeteerr
+# puppeteer
 
 
 vs code terminalden restapi içerisine girip sırasıyla
